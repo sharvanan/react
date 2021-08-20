@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Install faker.js 
 >npm install --save faker
+
+Props (Properties)=> System for passing data from Parent to Child component.
